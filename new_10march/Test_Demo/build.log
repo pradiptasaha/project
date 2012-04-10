@@ -1,0 +1,273 @@
+Logfile initialized
+[INFO] logfile = E:\pushp\titanium\Test_Demo\build.log
+[DEBUG] D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\builder.py install DOPE D:\android-sdk-windows E:\pushp\titanium\Test_Demo com.b24esolutions.com 7
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.016000 seconds on emulator to get ready
+[DEBUG] com.b24esolutions.com installed? True
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: E:\pushp\titanium\Test_Demo\Resources\main_windows\details.js => E:\pushp\titanium\Test_Demo\build\android\bin\assets\Resources\main_windows\details.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: E:\pushp\titanium\Test_Demo\build\android\bin\assets\Resources\appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-land-hdpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-land-hdpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-long-land-hdpi\background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-land-ldpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-land-ldpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-long-land-ldpi\background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-port-hdpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-port-hdpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-long-port-hdpi\background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-port-ldpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-long-port-ldpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-long-port-ldpi\background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-land-hdpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-land-hdpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-notlong-land-hdpi\background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-land-ldpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-land-ldpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-notlong-land-ldpi\background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-land-mdpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-land-mdpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-notlong-land-mdpi\background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-port-hdpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-port-hdpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-notlong-port-hdpi\background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-port-ldpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-port-ldpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-notlong-port-ldpi\background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-port-mdpi\default.png
+[DEBUG] copying E:\pushp\titanium\Test_Demo\Resources\android\images\res-notlong-port-mdpi\default.png splash screen to E:\pushp\titanium\Test_Demo\build\android\res\drawable-notlong-port-mdpi\background.png
+[DEBUG] found splash screen at E:\pushp\titanium\Test_Demo\build\android\bin\assets\Resources\default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding E:\pushp\titanium\Test_Demo\build\android\gen\com\b24esolutions\com\DopeActivity.java to javac build list
+[DEBUG] adding E:\pushp\titanium\Test_Demo\build\android\gen\com\b24esolutions\com\DopeAppInfo.java to javac build list
+[DEBUG] adding E:\pushp\titanium\Test_Demo\build\android\gen\com\b24esolutions\com\DopeApplication.java to javac build list
+[DEBUG] adding E:\pushp\titanium\Test_Demo\build\android\gen\com\b24esolutions\com\R.java to javac build list
+[DEBUG] Building Java Sources: "E:\\pushp\\titanium\\Test_Demo\\build\\android\\gen\\com\\b24esolutions\\com\\DopeActivity.java" "E:\\pushp\\titanium\\Test_Demo\\build\\android\\gen\\com\\b24esolutions\\com\\DopeAppInfo.java" "E:\\pushp\\titanium\\Test_Demo\\build\\android\\gen\\com\\b24esolutions\\com\\DopeApplication.java" "E:\\pushp\\titanium\\Test_Demo\\build\\android\\gen\\com\\b24esolutions\\com\\R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: E:\pushp\titanium\Test_Demo\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/image/DOPE/Jumbo_text_bg 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/Jumbo_text_bg 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/Steam_whatshot_chat_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/Steam_whatshot_chat_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/Stream_bg_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/Stream_bg_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/arrow_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/arrow_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/attandence_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/attandence_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/bg for i card 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/bg for i card 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/bottom_bar1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/bottom_bar2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/camera_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/camera_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/cha_pic2.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/cha_pic2_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_button off_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_button off_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_button1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_button2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_map_bg 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_map_bg 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_near_far_line_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_near_far_line_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic1 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic1 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic10_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic10_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic11_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic11_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic12_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic12_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic3_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic3_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic4_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic4_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic5_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic5_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic6_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic6_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic7_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic7_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic8_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic8_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic9_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/chat_pic9_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/coffe mug_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/coffe mug_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/dope_logo_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/dope_logo_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/edit_buttom_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/edit_buttom_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/facebook_bg_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/facebook_bg_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/fg_for ID 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/fg_for ID 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/firstname_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/firstname_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/firstname_textbox_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/firstname_textbox_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/gosip_bg1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/gosip_bg2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/green_ribbon_left_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/green_ribbon_left_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/green_ribbon_right_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/green_ribbon_right_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/icard_base 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/icard_base 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/id_facebook 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/id_facebook 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/id_send msg 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/id_send msg 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/id_twittter_ 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/id_twittter_ 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/jumbo coffee_follow button 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/jumbo coffee_follow button 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/keyboard 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/keyboard 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/main_bg_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/main_bg_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/map marker 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/map marker 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/map_list_bg 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/map_list_bg 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/marker_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/marker_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/onlyEdu_bg-1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/onlyEdu_bg-2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic 1_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic 1_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic2_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic2_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic3_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic3_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic4_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic4_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic_and_send_box 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/pic_and_send_box 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/place statisctics  _bg 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/place statisctics  _bg 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/post_bg box 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/post_bg box 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/red button_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/red button_OFF_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/red button_OFF_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_OFF1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_OFF2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_map_bg 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_map_bg 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_marker 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_marker 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_marker2_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/scope out_marker2_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/search box _ 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/search box _ 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/search icon1 x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/search icon2 x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/show_more 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/show_more 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/signin 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/signin 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/signup_bg1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/signup_bg2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/spotted_pic_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/spotted_pic_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/start_groupcha 2xt.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/start_groupchat 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream button_OFF1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream button_OFF_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream_button_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream_button_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream_partition line_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream_partition line_2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/stream_partition line_2x.psd
+[DEBUG] from resource zip => assets/Resources/image/DOPE/student 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/student 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/student_off_ 1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/student_off_ 2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/whats hot_1x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE/whats hot_2x.png
+[DEBUG] from resource zip => assets/Resources/image/BG.png
+[DEBUG] from resource zip => assets/Resources/image/BG@2x.png
+[DEBUG] from resource zip => assets/Resources/image/DOPE.rar
+[DEBUG] from resource zip => assets/Resources/image/Login_SignIn_button.png
+[DEBUG] from resource zip => assets/Resources/image/Login_SignupFB_button.png
+[DEBUG] from resource zip => assets/Resources/image/Login_SignupFB_button@2x.png
+[DEBUG] from resource zip => assets/Resources/image/Login_Signup_button.png
+[DEBUG] from resource zip => assets/Resources/image/Login_Signup_button@2x.png
+[DEBUG] from resource zip => assets/Resources/image/Login_data_field.png
+[DEBUG] from resource zip => assets/Resources/image/Login_data_field@2x.png
+[DEBUG] from resource zip => assets/Resources/image/Login_data_field_edu_badge@2x.png
+[DEBUG] from resource zip => assets/Resources/image/Login_icon.png
+[DEBUG] from resource zip => assets/Resources/image/Login_icon@2x.png
+[DEBUG] from resource zip => assets/Resources/image/Navbar_BG.png
+[DEBUG] from resource zip => assets/Resources/image/Navbar_BG@2x.png
+[DEBUG] from resource zip => assets/Resources/image/Slices.zip
+[DEBUG] from resource zip => assets/Resources/image/cha_pic2_1x.png
+[DEBUG] from resource zip => assets/Resources/image/chat_pic7_1x.png
+[DEBUG] from resource zip => assets/Resources/image/dope_upper_bg_lite__withlog_push.png
+[DEBUG] from resource zip => assets/Resources/image/dope_upper_bg_lite__withlogo1x.png
+[DEBUG] from resource zip => assets/Resources/image/dope_upper_bg_lite__withlogo2x.png
+[DEBUG] from resource zip => assets/Resources/image/marker_1x.png
+[DEBUG] from resource zip => assets/Resources/image/pin.jpg
+[DEBUG] from resource zip => assets/Resources/image/signin_big_1x.png
+[DEBUG] from resource zip => assets/Resources/image/signup_bg1x.png
+[DEBUG] from resource zip => assets/Resources/images/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/images/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/main_windows/details.js
+[DEBUG] from resource zip => assets/Resources/main_windows/follow.js
+[DEBUG] from resource zip => assets/Resources/main_windows/login.js
+[DEBUG] from resource zip => assets/Resources/main_windows/verify.js
+[DEBUG] from resource zip => assets/Resources/ui/AppTabGroup.js
+[DEBUG] from resource zip => assets/Resources/ui/AppWindow.js
+[DEBUG] from resource zip => assets/Resources/BG.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/map.html
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR D:\Documents and Settings\Administrator\Application Data\Titanium\mobilesdk\win32\1.8.2\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.015000 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
